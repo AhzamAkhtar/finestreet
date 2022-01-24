@@ -11,3 +11,27 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.main-div{
+  height: 50%;
+  width: 70%;
+  margin-left: 10%;
+  /*background-color: black;*/
+}
+.heading{
+  text-align: center;
+}
+.search{
+  border-radius: 8px;
+  border-color: greenyellow;
+  width: 100%;
+  text-align: center;
+  height: 60px;
+}
+#button{
+  margin-top: 5px;
+  border-radius: 8px;
+  width: 100%;
+}
+.div{
+  background-color: lightgray;
+}
