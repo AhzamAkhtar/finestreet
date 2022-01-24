@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/finestreet/static/css/main.a065e901.css",
+    "main.js": "/finestreet/static/js/main.1e3745d7.js",
+    "static/js/787.c82cfeba.chunk.js": "/finestreet/static/js/787.c82cfeba.chunk.js",
+    "static/media/logo.svg": "/finestreet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/finestreet/index.html",
+    "main.a065e901.css.map": "/finestreet/static/css/main.a065e901.css.map",
+    "main.1e3745d7.js.map": "/finestreet/static/js/main.1e3745d7.js.map",
+    "787.c82cfeba.chunk.js.map": "/finestreet/static/js/787.c82cfeba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a065e901.css",
+    "static/js/main.1e3745d7.js"
+  ]
+}
